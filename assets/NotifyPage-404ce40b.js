@@ -1,1 +1,0 @@
-import{C as o}from"./ComingSoon-059090d7.js";import{bH as t,bG as e}from"./vendor-32c93a83.js";import"./index-da143a34.js";import"./vant-26c42152.js";const s=t({props:{name:{type:String}},setup:(r,p)=>()=>e(o,{title:"记账提醒"},null)});export{s as NotifyPage,s as default};

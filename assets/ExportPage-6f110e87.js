@@ -1,0 +1,1 @@
+import{C as o}from"./ComingSoon-da82bac3.js";import{bH as t,bG as e}from"./vendor-32c93a83.js";import"./index-d7315a6d.js";import"./vant-26c42152.js";const s=t({props:{name:{type:String}},setup:(r,p)=>()=>e(o,{title:"导出数据"},null)});export{s as ExportPage,s as default};
